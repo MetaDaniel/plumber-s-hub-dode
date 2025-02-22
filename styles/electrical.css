@@ -1,0 +1,55 @@
+.Frame137{
+    width: 90%;
+       height: 100%;
+        padding: 10px;
+        background: #C8D2FB;
+        border-radius: 8px; 
+        border: 2px black solid;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        display: inline-flex
+}
+
+.ElectricalServices{
+    flex: 1 1 0;
+         text-align: center; 
+         color: black; 
+         font-size: 32px;
+          font-family: Inter;
+           font-weight: 200;
+           word-wrap: break-word;
+            max-width: 300px;
+}
+
+.Group26{
+    width: 329px;
+    height: 68px;
+    left: 50px;
+    top: 251px; 
+    position: absolute
+}
+
+.Rectangle19{
+    width: 329px;
+            height: 68px;
+            left: 0px; 
+            top: 0px;
+            position: absolute;
+            background: #F1EDED; 
+            border-radius: 10px
+}
+
+.ResidentialPlumbingServices{
+         width: 309px;
+          height: 58px;
+          left: 10px; 
+          top: 40px; 
+          position: absolute; 
+          text-align: center;
+          color: black;
+          font-size: 24px; 
+          font-family: Inter;
+          font-weight: 200;
+          word-wrap: break-word
+}
